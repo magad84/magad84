@@ -18,7 +18,13 @@ I work at the intersection of executive management, operations, supply chain, bu
 
 ### [INCO](https://github.com/magad84/inco)
 
-A professional trade and logistics decision-support product designed to structure shipment analysis, identify missing information, flag operational and regulatory risks, and support faster professional judgment.
+**International trade and logistics decision support**
+
+INCO is a rules-first, source-governed product designed to structure shipment analysis, identify missing information, flag operational and regulatory risks, and support faster professional judgment.
+
+My role: **Founder, Product Owner, Domain Architect, Business-Rules Owner, and Knowledge & Source-Governance Lead.**
+
+Technology is used as a management, transformation, and execution enabler. My positioning is not software development or AI engineering.
 
 ## Research & Knowledge
 
@@ -26,6 +32,6 @@ My work also includes research, professional writing, teaching, and applied lear
 
 ## GitHub Approach
 
-I use GitHub as a governance and delivery environment for selected digital products, research-backed business tools, technical documentation, and AI-enabled solution development.
+I use GitHub as a governance and delivery environment for selected digital products, research-backed business tools, technical documentation, controlled AI-assisted development, and modern product-delivery workflows.
 
-Public repositories contain approved public work only. Commercial, private, and internal implementation assets remain private by design.
+Public repositories contain approved public work only. Commercial, private, research-sensitive, and internal implementation assets remain private by design.
