@@ -27,7 +27,7 @@ INCO is a rules-first, source-governed product designed to structure shipment an
 
 My role: **Founder, Product Owner, Domain Architect, Business-Rules Owner, and Knowledge & Source-Governance Lead.**
 
-### Career Architect Pro (CAP)
+### [Career Architect Pro (CAP)](showcases/CAP.md)
 
 **Career diagnostics, positioning, and application system | Controlled public-release candidate**
 
@@ -35,11 +35,11 @@ CAP is an evidence-led career system designed around career diagnostics, positio
 
 My role: **Founder, Product Owner, Domain and Knowledge-Governance Lead.**
 
-### VIA, Visibility In Action
+### [VIA, Visibility In Action](showcases/VIA.md)
 
-**Shipment Visibility & Logistics Automation Platform | Private production repository with planned public showcase**
+**Shipment Visibility & Logistics Automation Platform | Private production repository with public showcase**
 
-VIA addresses shipment visibility, operational coordination, and logistics automation. Its operational repository remains private by design. A separate public showcase layer is planned to demonstrate the business problem, approved product experience, high-level architecture, automation approach, governance, and selected execution evidence without exposing operational internals or sensitive data.
+VIA addresses shipment visibility, operational coordination, and logistics automation. Its operational repository remains private by design. The public showcase demonstrates the business problem, approved product direction, high-level automation approach, governance, and selected execution evidence without exposing operational internals or sensitive data.
 
 My role: **Founder, Product Owner, Domain and Governance Lead.**
 
