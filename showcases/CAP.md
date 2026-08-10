@@ -20,6 +20,26 @@ CAP combines:
 - governed career knowledge and decision support;
 - controlled use of AI and automation where they add value.
 
+## High-Level Operating Model
+
+```text
+Career Evidence + Target Role
+          |
+          v
+Structured Diagnostic & Alignment
+          |
+          v
+Governed Career Decision Support
+          |
+          v
+Professional Deliverables
+          |
+          v
+Human Quality Review
+```
+
+This is intentionally a public-safe product model. It does not disclose proprietary scoring, calibration, research datasets, prompts, customer records, or protected knowledge-base content.
+
 ## My Role
 
 **Mostafa Gad:** Founder, Product Owner, Domain Architect, and Knowledge-Governance Lead.
@@ -36,14 +56,21 @@ CAP is developed through a controlled product workflow that uses modern tools an
 - Codex-assisted implementation within approved technical scope;
 - modular application architecture;
 - security and privacy controls;
-- human review requirements for paid professional deliverables;
+- human review requirements for professional deliverables;
 - research-backed knowledge development.
 
 ## Public / Private Boundary
 
 CAP is intentionally not presented by exposing its full private repository.
 
-The private product source contains research-sensitive and competitive assets that are not required to prove the product publicly. These include proprietary career and ATS knowledge, research datasets, calibration material, internal prompts, evaluation logic, customer-data boundaries, and operational implementation details.
+| Public proof | Remains private |
+|---|---|
+| Business problem and product direction | Customer CVs, documents, payment proofs and personal data |
+| High-level operating model | Proprietary career / ATS knowledge base |
+| Approved product visuals when released | Research corpus, calibration and evaluation datasets |
+| General architecture and governance principles | Internal prompts and hidden quality-control logic |
+| Selected safe tests and delivery evidence | Protected competitive scoring / ranking logic |
+| Founder / Product Owner role | Credentials, private infrastructure and operational internals |
 
 The approved direction is a controlled public release package containing only reviewed public assets, safe examples, selected implementation evidence, and public documentation.
 
