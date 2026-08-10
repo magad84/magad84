@@ -20,6 +20,26 @@ The platform is designed to support:
 - controlled escalation and operational follow-up;
 - future AI assistance only where explicitly approved and where it does not replace deterministic business rules or authorization.
 
+## High-Level Operating Model
+
+```text
+Operational Channels
+        |
+        v
+Governed VIA Service Boundary
+        |
+        v
+Rules + Workflow Coordination
+        |
+        v
+Controlled Operational Records
+        |
+        v
+Visibility, Alerts, Follow-up, Reporting
+```
+
+This diagram intentionally shows the operating model at a public-safe level. It does not disclose production schemas, credentials, provider endpoints, private workflow logic, infrastructure topology, or other implementation-sensitive details.
+
 ## My Role
 
 **Mostafa Gad:** Founder, Product Owner, Domain and Governance Lead.
@@ -35,7 +55,7 @@ VIA is being developed through a controlled product and engineering workflow tha
 - Codex-assisted implementation within approved technical boundaries;
 - workflow automation and orchestration;
 - API and integration contracts;
-- database and session-state governance;
+- data and session-state governance;
 - testing, implementation-status tracking, and risk/blocker records;
 - explicit approval gates for production, credentials, customer data, provider messaging, and infrastructure changes.
 
@@ -43,10 +63,20 @@ VIA is being developed through a controlled product and engineering workflow tha
 
 The operational VIA repository remains private by design.
 
-A public showcase should prove the product problem, approved user experience, high-level architecture, automation model, and execution discipline without exposing operational source code, customer or shipment data, provider credentials, webhooks, private workflow internals, infrastructure details, or sensitive business rules.
+| Public proof | Remains private |
+|---|---|
+| Business problem and product direction | Operational source code |
+| Approved product positioning | Customer and shipment data |
+| High-level operating model | Credentials, tokens, webhooks, private URLs |
+| Approved screenshots and visuals when released | Detailed database schemas and migrations |
+| General automation and governance approach | Provider-specific integration internals |
+| Selected testing and delivery evidence | Private workflow logic and sensitive business rules |
+| Founder / Product Owner role | Deployment and infrastructure details not required for public proof |
+
+The public showcase is intentionally designed to prove the product, operating model, governance, and execution discipline without publishing the operational repository.
 
 ## Current GitHub Status
 
-**Private production/development repository with a public showcase layer.**
+**Private production/development repository with a controlled public showcase layer.**
 
-This page is the first controlled GitHub showcase surface. Additional approved visuals and verified product links can be added as the public product experience reaches release readiness.
+The operational repository remains private. This public page is the approved GitHub proof surface for VIA. Additional approved visuals and verified public product links can be added as the public product experience reaches release readiness.
