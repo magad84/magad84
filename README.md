@@ -1,14 +1,14 @@
 # Mostafa Gad
 
-**Executive Management & Operations Leader | Supply Chain | Business Transformation | AI-Enabled Execution**
+**Management Expert | Supply Chain & Operations Executive | Researcher | Author | AI & Business Automation Advocate**
 
-I work at the intersection of executive management, operations, supply chain, business transformation, and applied AI. My focus is on turning real business challenges into stronger operating models, practical digital products, automation workflows, and decision-support systems.
+I work across management, executive leadership, supply chain, operations, business transformation, and applied AI. My focus is on turning real business challenges into stronger operating models, practical digital products, automation workflows, and decision-support systems.
 
 [Website](https://mostafagad.net) · [LinkedIn](https://www.linkedin.com/in/mostafagad84/) · [ORCID](https://orcid.org/0009-0003-8678-9873)
 
 ## What I Lead
 
-- Executive management and business operations
+- Management and executive leadership
 - Supply chain, procurement, logistics, and S&OP
 - Operational excellence and business transformation
 - Applied AI and business automation
@@ -55,21 +55,20 @@ I use modern tools as management, transformation, and execution enablers, not as
 
 Selected practices include:
 
-- GitHub-based governance, version control, issues, pull requests, and delivery records
+- GitHub-based version control, issues, pull requests, and delivery records
 - AI-assisted product development using ChatGPT and Codex within controlled project boundaries
-- Figma-based product and interface design governance
-- automated testing, CI workflows, security review, and quality gates where applicable
-- architecture and decision records
+- Figma-based product and interface design
+- targeted testing, CI workflows, security review, and quality gates where applicable
 - rules-first automation and human-in-the-loop controls
 - controlled public/private data, knowledge, and intellectual-property boundaries
 
 ## Research & Knowledge
 
-My work also includes research, professional writing, teaching, and applied learning across supply chain, operations, business analytics, and AI-enabled execution.
+My work also includes research, professional writing, teaching, and applied learning across management, supply chain, operations, business analytics, and AI-enabled execution.
 
 ## GitHub Approach
 
-I use GitHub as a governance and delivery environment for selected digital products, research-backed business tools, technical documentation, controlled AI-assisted development, and modern product-delivery workflows.
+I use GitHub as a delivery and governance environment for selected digital products, research-backed business tools, technical documentation, controlled AI-assisted development, and modern product-delivery workflows.
 
 Public repositories contain approved public work only. Commercial, private, research-sensitive, customer, and internal implementation assets remain private by design.
 
