@@ -43,6 +43,10 @@ VIA addresses shipment visibility, operational coordination, and logistics autom
 
 My role: **Founder, Product Owner, Domain and Governance Lead.**
 
+### SPH
+
+SPH is part of my public digital product portfolio. Detailed public positioning will remain limited to approved information.
+
 ### MostafaGad.net V3
 
 **Executive knowledge-to-execution platform | Private implementation repository**
