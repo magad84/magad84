@@ -29,9 +29,9 @@ My role: **Founder, Product Owner, Domain Architect, Business-Rules Owner, and K
 
 ### [Career Architect Pro (CAP)](showcases/CAP.md)
 
-**Career diagnostics, positioning, and application system | Controlled public-release candidate**
+**Career diagnostics, positioning, and application system | Private product repository with public showcase**
 
-CAP is an evidence-led career system designed around career diagnostics, positioning, job alignment, and professionally governed document delivery. Its public GitHub release is being designed to demonstrate the product and engineering discipline while keeping private career knowledge, customer data, research-sensitive assets, and protected competitive logic outside the public layer.
+CAP is an evidence-led career system designed around career diagnostics, positioning, job alignment, and professionally governed document delivery. Its implementation repository remains private while the public showcase presents the approved product direction without exposing private career knowledge, customer data, research-sensitive assets, or protected competitive logic.
 
 My role: **Founder, Product Owner, Domain and Knowledge-Governance Lead.**
 
@@ -43,9 +43,13 @@ VIA addresses shipment visibility, operational coordination, and logistics autom
 
 My role: **Founder, Product Owner, Domain and Governance Lead.**
 
-### SPH
+### [SPH](showcases/SPH.md)
 
-SPH is part of my public digital product portfolio. Detailed public positioning will remain limited to approved information.
+**Procurement and Supplier Collaboration | Private product repository with public showcase**
+
+SPH is an independent procurement and supplier-collaboration product designed to support a controlled buyer-supplier operating path across qualification, sourcing, and post-award execution. The product is under development; its implementation remains private while the public showcase presents the approved business direction.
+
+My role: **Founder, Product Owner, Domain and Governance Lead.**
 
 ### MostafaGad.net V3
 
